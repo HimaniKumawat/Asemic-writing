@@ -8,8 +8,6 @@ Things used in this project:
 
 -Microphone sensor- 4 pin
 
--Screen to present the output
-
 Connect the Arduino to p5 with the help of p5-serialcontrol application. Download and install all the files from the link below-
 https://github.com/p5-serial/p5.serialcontrol/releases/tag/0.1.2
 
