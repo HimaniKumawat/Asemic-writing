@@ -1,5 +1,6 @@
 # Generated Asemic Writing
-computer generated asemic writing (using arduino and p5). This is influenced by the surrounding noise.
+computer generated asemic writing (using arduino and p5). This is influenced by the surrounding noise. To know more about the process or the project check out this blog: https://hkdocumention.wordpress.com/
+
 Things used in this project:
 
 -Arduino Uno
